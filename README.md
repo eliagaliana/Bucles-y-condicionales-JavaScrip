@@ -8,7 +8,7 @@ El objetivo es **consolidar la lógica de programación** mediante la resolució
 
 ## 🏗️ Contenido del Proyecto  
 
-El notebook incluye varios ejercicios organizados por nivel de dificultad y tipo de estructura:  
+El notebook incluye varios ejercicios organizados por distintos enunciados:  
 
 **Condicionales:**  
 - Determinar si un número es par o impar.  
